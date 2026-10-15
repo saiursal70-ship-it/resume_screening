@@ -1,0 +1,31 @@
+Grace Liu
+Email: grace.liu.dev@example.com | Phone: (555) 890-1234 | Atlanta, GA | GitHub: github.com/graceliu-dev
+
+Summary
+Enthusiastic Full Stack Engineer with 2.5 years of industry experience building end-to-end web applications with Python (FastAPI) and React. Quick learner who has successfully implemented full-stack features from database migrations to frontend state management. Seeking to grow into a senior engineering environment.
+
+Experience
+Full Stack Engineer | Peachtree Tech Solutions | Atlanta, GA
+September 2022 – Present
+- Developed full-stack features using Python (FastAPI), React, TypeScript, and PostgreSQL.
+- Implemented RESTful endpoints with Pydantic schema validation and SQLAlchemy ORM models.
+- Built responsive UI components with React and Tailwind CSS, integrating client-side form validation.
+- Wrote database migrations with Alembic and optimized basic SQL queries for candidate tracking modules.
+- Authored unit tests with pytest for backend routers and React Testing Library for frontend components, achieving 80% coverage.
+- Used Docker for containerized local development and participated in daily standups and code reviews.
+
+Junior Developer Intern | Nexus Software Labs | Atlanta, GA
+June 2021 – August 2022 (Part-time during studies)
+- Assisted backend team in writing Python scripts for automated report generation.
+- Contributed bug fixes to React components and updated UI styling.
+- Gained hands-on experience with Git branching workflows and PostgreSQL database queries.
+
+Education
+Bachelor of Science in Computer Science
+Georgia Institute of Technology | Graduated May 2022
+
+Skills
+Languages: Python, TypeScript, JavaScript, SQL, HTML5, CSS3
+Frameworks & Libraries: FastAPI, React, SQLAlchemy, Tailwind CSS, Alembic
+Databases: PostgreSQL, SQLite
+Tools & Practices: Docker, Git, GitHub, pytest, RESTful APIs, Agile

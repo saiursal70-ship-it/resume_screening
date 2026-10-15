@@ -1,0 +1,32 @@
+Henry Brown
+Email: henry.brown.data@example.com | Phone: (555) 901-2345 | Dallas, TX | LinkedIn: linkedin.com/in/henrybrown-data
+
+Summary
+Senior Data & Backend Engineer with 6 years of experience engineering data infrastructure, backend pipelines, and database systems. Advanced expertise in Python development, PostgreSQL database management, and asynchronous data transformation. Looking to transition backend and systems expertise toward full-stack engineering.
+
+Experience
+Senior Data Engineer | Lone Star Data Systems | Dallas, TX
+May 2021 – Present
+- Designed and maintained distributed data pipelines using Python, Apache Airflow, and PostgreSQL, processing 50GB of daily event streams.
+- Tuned PostgreSQL database configurations, partition tables, and indexing strategies to handle high-write ingestion loads.
+- Created internal REST API endpoints using Python (FastAPI) for querying aggregated metric datasets.
+- Containerized data workflows with Docker and deployed reproducible staging environments on cloud infrastructure.
+- Mentored 2 junior data engineers in Python best practices, code modularity, and automated testing with pytest.
+
+Backend Developer | Red River Analytics | Dallas, TX
+August 2018 – April 2021
+- Built Python-based batch processing services to extract, transform, and load partner data feeds into PostgreSQL warehouses.
+- Designed database schemas, wrote complex SQL queries, and maintained database backup scripts.
+- Implemented automated data validation checks and unit test suites using pytest and Great Expectations.
+- Packaged services into Docker containers for execution in Linux environments.
+
+Education
+Bachelor of Science in Applied Mathematics & Computer Science
+Southern Methodist University | Graduated May 2018
+
+Skills
+Languages: Python, SQL, Bash
+Backend & Data: FastAPI, SQLAlchemy, PostgreSQL, Redis, Apache Airflow, Pandas
+Databases: PostgreSQL (Deep SQL, Indexing, Partitioning, Query Optimization)
+Infrastructure & Tools: Docker, Docker Compose, Git, Linux, pytest, CI/CD
+Frontend: Minimal exposure (basic HTML/CSS, no React or modern frontend frameworks)

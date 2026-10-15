@@ -1,0 +1,32 @@
+David Kim
+Email: david.kim.dev@example.com | Phone: (555) 567-8901 | New York, NY | GitHub: github.com/davidkim-tech
+
+Summary
+Senior Full Stack Developer with over 5 years of software engineering experience creating high-reliability cloud applications and intuitive web experiences. Strong background in Python API engineering with FastAPI, single-page application development with React and TypeScript, and robust database architecture using PostgreSQL. Committed to clean code, test-driven development, and collaborative team culture.
+
+Experience
+Senior Full Stack Developer | Metro Logistics Software | New York, NY
+April 2021 – Present
+- Led the core engineering team developing a real-time dispatch and fleet tracking platform powered by Python (FastAPI) and PostgreSQL.
+- Developed an interactive frontend dashboard using React, TypeScript, and Tailwind CSS, providing sub-second state synchronization for 500+ dispatchers.
+- Structured relational databases with PostgreSQL, employing JSONB for dynamic shipping metadata and optimizing indexes for high query concurrency.
+- Built containerized microservices with Docker, establishing reproducible local Docker Compose workflows and production deployments on Google Cloud Run.
+- Integrated AI reasoning APIs for route anomaly detection, validating model outputs against deterministic safety rules before execution.
+- Guided bi-weekly sprint planning, performed rigorous code reviews, and mentored junior team members in Python design patterns.
+
+Full Stack Software Engineer | Sterling Interactive | Brooklyn, NY
+September 2018 – March 2021
+- Created backend REST APIs using Python (FastAPI, Flask) and relational databases for e-commerce client platforms.
+- Built customer-facing web applications using React, JavaScript, and styled-components, improving mobile conversion rates by 22%.
+- Formulated relational database schemas, automated data migrations using Alembic, and drafted OpenAPI specs.
+- Established automated testing practices with pytest and Jest, increasing backend unit test coverage from 55% to 92%.
+
+Education
+Bachelor of Science in Computer Science
+Columbia University, New York | Graduated May 2018
+
+Skills
+Languages & Frameworks: Python (FastAPI, Flask), TypeScript, JavaScript, React, HTML5, CSS3, SQL
+Databases: PostgreSQL, SQLAlchemy, Alembic, Redis
+Cloud & Infrastructure: Docker, Docker Compose, Google Cloud Platform (GCP), Git, GitHub Actions, Linux
+Specialties: RESTful API Design, Microservices, Asynchronous Workflows, Unit & Integration Testing (pytest)

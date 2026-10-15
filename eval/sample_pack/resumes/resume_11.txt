@@ -1,0 +1,32 @@
+Karen Lee
+Email: karen.lee.design@example.com | Phone: (555) 234-5679 | Portland, OR | Portfolio: karenlee-designs.com
+
+Summary
+Creative professional transitioning from graphic design into web development following completion of an intensive 16-week frontend web development bootcamp. Eager to contribute foundational skills in HTML, CSS, and introductory JavaScript to junior-level web projects. Passionate about typography, visual layouts, and responsive web styling.
+
+Experience
+Junior Web Development Apprentice | Community Code Clinic | Portland, OR
+January 2024 – Present (6 months)
+- Developed simple static landing pages for non-profit organizations using HTML5, CSS3, and beginner JavaScript.
+- Converted Figma wireframes and mockups into responsive mobile-friendly web pages.
+- Learned foundational Git version control commands including commit, push, and pull requests.
+- Assisted in fixing CSS flexbox and grid styling issues across modern web browsers.
+
+Graphic Designer | Cascade Creative Agency | Portland, OR
+September 2019 – November 2023 (4 years)
+- Designed marketing brochures, print collateral, social media banners, and brand identity packages using Adobe Illustrator and Photoshop.
+- Collaborated with creative directors and client marketing managers to deliver on-brand visual assets on tight deadlines.
+- Conducted photo editing and color grading for commercial client catalog publications.
+
+Education
+Full-Stack Web Development Certificate (16 weeks)
+Pacific Northwest Coding Academy | Completed December 2023
+
+Bachelor of Fine Arts in Graphic Design
+Portland State University | Graduated June 2019
+
+Skills
+Design Tools: Adobe Photoshop, Adobe Illustrator, InDesign, Figma, Sketch
+Web Fundamentals: HTML5, CSS3, Responsive Design, Flexbox, CSS Grid, Beginner JavaScript
+Version Control: Basic Git, GitHub
+Note: No professional experience with Python, FastAPI, React/TypeScript architecture, PostgreSQL database design, or Docker

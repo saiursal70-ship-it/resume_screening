@@ -1,0 +1,34 @@
+Job Title: Senior Full Stack Engineer (Python & React)
+Department: Core Product Engineering
+Employment Type: Full-time
+Location: Remote / Hybrid
+
+About the Role:
+We are looking for an experienced Senior Full Stack Engineer to join our core product engineering team. In this role, you will lead the architecture, design, and implementation of high-throughput backend services and responsive web interfaces. You will work closely with product managers, designers, and machine learning engineers to build robust, scalable applications that deliver real-world business value.
+
+Key Responsibilities:
+- Design, build, and maintain high-performance, asynchronous RESTful APIs using Python (FastAPI).
+- Architect clean, modular, and accessible user interfaces using React, TypeScript, and modern CSS tooling.
+- Design relational database schemas in PostgreSQL, write efficient queries, and manage database migrations.
+- Containerize services using Docker and deploy scalable cloud infrastructure on Google Cloud Platform (GCP).
+- Integrate AI services and LLM-assisted workflows reliably with structured outputs and automated validation.
+- Champion engineering best practices, conduct thorough code reviews, and mentor mid-level and junior engineers.
+- Implement comprehensive automated testing (unit, integration, and end-to-end) across frontend and backend services.
+
+Requirements:
+
+Must-Have:
+1. 5+ years of professional software engineering experience building and maintaining production web applications.
+2. High proficiency in Python, with deep experience in modern frameworks such as FastAPI, Django, or Flask.
+3. Strong hands-on experience in frontend engineering with React, TypeScript, and modern state management.
+4. Solid expertise with relational databases, specifically PostgreSQL, including schema design, indexing, and query optimization.
+
+Nice-to-Have:
+5. Hands-on experience with Docker containerization and cloud platforms (Google Cloud Platform or AWS).
+6. Experience building AI-assisted features or integrating LLM APIs (e.g., Google Gemini, OpenAI) with structured schemas.
+7. Experience architecting distributed backend services, asynchronous queues, and resilient RESTful API designs.
+8. Proven technical leadership skills, including mentoring engineers and guiding technical roadmaps.
+
+Education & Experience:
+- Bachelor's or Master's degree in Computer Science, Software Engineering, or equivalent practical industry experience.
+- Track record of delivering reliable, well-tested production software.

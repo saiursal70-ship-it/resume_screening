@@ -1,0 +1,33 @@
+Carol Williams
+Email: carol.williams@example.com | Phone: (555) 456-7890 | Seattle, WA | Portfolio: carolwilliams.dev
+
+Summary
+Accomplished Senior Full Stack Engineer with 8 years of hands-on experience building resilient web applications, data-intensive backends, and responsive user experiences. Deep expertise in Python systems programming, FastAPI asynchronous services, PostgreSQL performance optimization, and modern React architectures. Recognized for strong technical leadership, mentoring, and rigorous system design.
+
+Experience
+Staff Software Engineer | Beacon Health Technologies | Seattle, WA
+January 2021 – Present
+- Architected a HIPAA-compliant clinical operations platform using Python (FastAPI), React, TypeScript, and PostgreSQL.
+- Implemented asynchronous background job processing workflows, decreasing user-facing HTTP request latencies by 60%.
+- Conducted deep PostgreSQL database indexing and query tuning across complex clinical datasets, eliminating deadlocks and doubling transaction throughput.
+- Led the frontend architecture migration from legacy templates to a modern React and Vite application with responsive Tailwind design.
+- Mentored 5 junior and mid-level engineers, running architectural RFC discussions and championing automated testing standards with pytest.
+- Deployed multi-service containerized stacks using Docker Compose and managed GCP Cloud Run production workloads.
+
+Senior Software Engineer | Emerald Web Labs | Seattle, WA
+June 2016 – December 2020
+- Built full-stack web applications utilizing Python (Django, Flask), React, and PostgreSQL for enterprise retail clients.
+- Designed secure RESTful APIs with role-based access control, cookie-based sessions, and OpenAPI documentation.
+- Integrated third-party machine learning models and NLP APIs for real-time customer feedback categorization.
+- Authored comprehensive test suites with pytest and Playwright, establishing automated regression testing across all deployments.
+
+Education
+Bachelor of Science in Computer Science
+University of Washington | Graduated June 2016
+
+Skills
+Programming: Python (FastAPI, Flask, Django), TypeScript, JavaScript, SQL, HTML/CSS
+Frontend: React, Vite, Redux Toolkit, Tailwind CSS, Component Design
+Backend & Data: PostgreSQL, SQLAlchemy, Alembic, Redis, REST APIs, JSONB Schemas
+Cloud & DevOps: Docker, Docker Compose, Google Cloud Platform (Cloud Run, Cloud SQL), Git, CI/CD
+Practices: Unit Testing (pytest), System Design, Mentorship, Code Reviews, Security Best Practices

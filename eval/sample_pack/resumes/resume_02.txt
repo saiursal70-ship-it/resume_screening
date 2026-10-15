@@ -1,0 +1,32 @@
+Bob Martinez
+Email: bob.martinez.tech@example.com | Phone: (555) 345-6789 | Austin, TX | GitHub: github.com/bobmartinez-example
+
+Summary
+Results-driven Lead Software Engineer with 7 years of full-stack engineering experience delivering enterprise web platforms and AI-powered operational tools. Expert in Python backend development with FastAPI, modern React single-page applications, and PostgreSQL database performance engineering. Skilled at guiding engineering teams, technical roadmapping, and modern cloud deployment.
+
+Experience
+Lead Full Stack Engineer | DataPulse Technologies | Austin, TX
+March 2021 – Present
+- Spearheaded the development of an AI-assisted analytics platform using Python (FastAPI), React, TypeScript, and Google Gemini API for automated business reporting.
+- Designed structured JSON output schemas with Pydantic and rigorous post-validation rules, reducing hallucination errors by 94%.
+- Engineered high-concurrency PostgreSQL data models supporting multi-tenant partitioning and complex analytical aggregations.
+- Containerized development and production environments using Docker and Docker Compose, orchestrating deployments on Google Cloud Run.
+- Guided a cross-functional squad of 6 engineers, establishing coding standards, architectural reviews, and continuous integration practices.
+
+Software Engineer | Horizon Digital Media | Austin, TX
+July 2017 – February 2021
+- Created RESTful microservices using Python (FastAPI, Django) and PostgreSQL for high-volume content distribution.
+- Developed interactive web user interfaces using React, Redux, and modern CSS modules, improving user session duration by 28%.
+- Wrote database migrations, stored procedures, and query optimizations for PostgreSQL instances with over 50 million records.
+- Maintained 90%+ test coverage with automated unit and integration tests using pytest, FactoryBoy, and React Testing Library.
+
+Education
+Bachelor of Science in Software Engineering
+University of Texas at Austin | Graduated May 2017
+
+Skills
+Languages & Frameworks: Python (FastAPI, Django), TypeScript, JavaScript, React, Next.js, HTML5, CSS3/Tailwind
+Databases & Storage: PostgreSQL, Redis, SQLAlchemy, Alembic, Database Optimization
+Cloud & Infrastructure: Google Cloud Platform (Cloud Run, Cloud SQL, Secrets), Docker, Linux, Git
+AI & Integrations: LLM Integration (Gemini, OpenAI), Structured Generation, RESTful APIs, pytest
+Leadership: Technical Mentorship, Agile Scrum, System Architecture, Code Reviews

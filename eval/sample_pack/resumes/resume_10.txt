@@ -1,0 +1,30 @@
+Jack Wilson
+Email: jack.wilson.embedded@example.com | Phone: (555) 123-4567 | Detroit, MI | GitHub: github.com/jackwilson-embed
+
+Summary
+Embedded Systems Engineer with 3 years of hands-on experience developing low-level firmware, real-time operating system (RTOS) drivers, and microcontroller software. Strong foundation in C and C++ for bare-metal hardware and automotive CAN bus protocols. Looking to apply hardware-adjacent engineering rigor.
+
+Experience
+Embedded Firmware Engineer | Apex Automotive Electronics | Detroit, MI
+August 2021 – Present
+- Developed bare-metal firmware in C and C++ for ARM Cortex-M microcontrollers used in vehicle telemetry units.
+- Wrote device drivers for SPI, I2C, UART, and CAN bus peripherals, ensuring strict real-time timing constraints under FreeRTOS.
+- Performed hardware-in-the-loop (HIL) testing and signal verification using digital oscilloscopes and logic analyzers.
+- Debugged low-level memory allocation, interrupt service routines, and hardware registers using JTAG and GDB.
+- Documented firmware interface specifications conforming to ISO 26262 functional safety standards.
+
+Junior Hardware Test Engineer | MotorCity Sensor Labs | Detroit, MI
+July 2020 – July 2021
+- Built automated hardware test fixtures using C++ and laboratory bench instrumentation.
+- Validated sensor output accuracy across temperature cycling and vibration testing protocols.
+- Logged hardware defect reports and coordinated firmware patch verification with senior systems engineers.
+
+Education
+Bachelor of Science in Electrical and Computer Engineering
+University of Michigan, Ann Arbor | Graduated May 2020
+
+Skills
+Languages: C, C++, Assembly (ARM), Bash
+Hardware & Protocols: ARM Cortex-M, FreeRTOS, CAN bus, SPI, I2C, UART, JTAG, Oscilloscopes
+Development Environments: Keil uVision, STM32CubeIDE, GDB, Git
+Focus: Firmware development, Embedded systems, Real-time constraints (no web development, Python web frameworks, or React)

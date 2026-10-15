@@ -1,0 +1,31 @@
+Alice Chen
+Email: alice.chen.dev@example.com | Phone: (555) 234-5678 | San Francisco, CA | LinkedIn: linkedin.com/in/alicechen-example
+
+Summary
+Senior Full Stack Engineer with 6 years of experience architecting resilient cloud-native applications and responsive web interfaces. Proven track record leading agile engineering teams, designing asynchronous RESTful APIs in Python, and building performant React frontends. Passionate about data integrity, code quality, and developer ergonomics.
+
+Experience
+Senior Software Engineer | CloudScale Systems | San Francisco, CA
+June 2021 – Present
+- Architected and deployed microservices using Python (FastAPI) and PostgreSQL, handling over 12 million API requests daily with 99.98% uptime.
+- Led the redesign of the core customer portal using React 18, TypeScript, and Tailwind CSS, improving page load speed by 42% and accessibility score to 98%.
+- Optimized complex PostgreSQL database queries and indexes, decreasing P95 API response latency from 380ms to 65ms.
+- Mentored 4 mid-level and junior engineers through weekly 1:1s, pairing sessions, and structured code reviews.
+- Configured CI/CD pipelines deploying Docker containers to Google Cloud Platform (Cloud Run, Cloud SQL) with automated regression testing.
+
+Software Engineer | Apex FinTech Solutions | San Jose, CA
+August 2018 – May 2021
+- Developed scalable backend services in Python (Django, Flask) for automated financial transaction processing and settlement.
+- Built reusable frontend component libraries in React and TypeScript for internal operations dashboards.
+- Designed relational schemas and managed database migrations with Alembic and PostgreSQL.
+- Implemented robust unit and integration test suites using pytest and Jest, achieving 88% overall code coverage.
+
+Education
+Bachelor of Science in Computer Science
+University of California, Berkeley | Graduated May 2018
+
+Skills
+Languages & Frameworks: Python (FastAPI, Django, Flask), JavaScript, TypeScript, React, HTML5, CSS3, SQL
+Databases & Tools: PostgreSQL, Redis, Alembic, SQLAlchemy, Git, Docker, Docker Compose
+Cloud & DevOps: Google Cloud Platform (Cloud Run, Cloud SQL, Secret Manager), AWS, CI/CD, Linux
+Architecture: RESTful APIs, Microservices, Asynchronous Processing, System Design, Unit Testing (pytest)

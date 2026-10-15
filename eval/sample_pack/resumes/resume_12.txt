@@ -1,0 +1,33 @@
+Leo Garcia
+Email: leo.garcia.it@example.com | Phone: (555) 345-6780 | Phoenix, AZ | LinkedIn: linkedin.com/in/leogarcia-ithelp
+
+Summary
+Experienced IT Support Specialist and Helpdesk Administrator with 4 years of hands-on experience maintaining enterprise hardware, Windows workstation environments, local area networks, and user identity systems. Proven ability to troubleshoot computer hardware and software faults, resolve ticket escalations, and provide courteous technical support.
+
+Experience
+Lead IT Support Specialist | Desert Sun Financial Group | Phoenix, AZ
+October 2021 – Present
+- Administered Active Directory and Microsoft 365 accounts, permissions, and group policies for 600+ on-site and remote employees.
+- Resolved over 40 hardware, network, and application troubleshooting tickets weekly within SLA requirements using ServiceNow.
+- Configured and deployed corporate Dell and Lenovo laptops, provisioning standard operating environments and VPN client software.
+- Maintained local office network infrastructure including Cisco switches, Wi-Fi access points, and VoIP phone routing.
+- Authored IT onboarding manuals and conducted technical orientation sessions for new staff members.
+
+Helpdesk Technician | Valley Enterprise Solutions | Phoenix, AZ
+June 2020 – September 2021
+- Provided tier-1 and tier-2 desktop support via phone, email, and remote desktop tools.
+- Replaced faulty computer components including power supplies, RAM modules, and solid-state drives.
+- Monitored system backup logs and coordinated warranty repairs with third-party vendors.
+- Implemented software patch updates across corporate Windows 10 machines.
+
+Education
+Associate of Applied Science in Network and Computer Administration
+Phoenix College | Graduated May 2020
+
+Certifications: CompTIA Network+, CompTIA Security+, Microsoft Certified: Modern Desktop Administrator
+
+Skills
+Systems & Networking: Windows 10/11, Windows Server, Active Directory, Office 365, DNS, DHCP, TCP/IP, VPN
+Tools & Platforms: ServiceNow, Jira Service Desk, Remote Desktop, Wireshark, PowerShell (basic scripts)
+Hardware: Laptop/Desktop provisioning, Cisco switches, network cabling, peripheral troubleshooting
+Development: No software engineering, Python web framework, or React experience

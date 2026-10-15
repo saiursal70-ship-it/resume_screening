@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {"filename": "resume_01.txt", "label": "shortlist", "name": "Alice Chen"},
+    {"filename": "resume_02.txt", "label": "shortlist", "name": "Bob Martinez"},
+    {"filename": "resume_03.txt", "label": "shortlist", "name": "Carol Williams"},
+    {"filename": "resume_04.txt", "label": "shortlist", "name": "David Kim"},
+    {"filename": "resume_05.txt", "label": "maybe", "name": "Eva Patel"},
+    {"filename": "resume_06.txt", "label": "maybe", "name": "Frank Johnson"},
+    {"filename": "resume_07.txt", "label": "maybe", "name": "Grace Liu"},
+    {"filename": "resume_08.txt", "label": "maybe", "name": "Henry Brown"},
+    {"filename": "resume_09.txt", "label": "reject", "name": "Irene Davis"},
+    {"filename": "resume_10.txt", "label": "reject", "name": "Jack Wilson"},
+    {"filename": "resume_11.txt", "label": "reject", "name": "Karen Lee"},
+    {"filename": "resume_12.txt", "label": "reject", "name": "Leo Garcia"}
+  ]
+}

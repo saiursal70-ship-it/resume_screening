@@ -1,0 +1,32 @@
+Eva Patel
+Email: eva.patel.code@example.com | Phone: (555) 678-9012 | Chicago, IL | LinkedIn: linkedin.com/in/evapatel-dev
+
+Summary
+Backend Software Engineer with 4 years of professional experience building scalable server-side systems, RESTful microservices, and database pipelines using Python and PostgreSQL. Experienced with containerization, API development with FastAPI, and asynchronous workflows. Eager to expand frontend expertise into modern React and TypeScript stacks.
+
+Experience
+Backend Engineer | River North Analytics | Chicago, IL
+July 2021 – Present
+- Developed high-throughput REST APIs and data processing services using Python (FastAPI, SQLAlchemy) and PostgreSQL.
+- Implemented asynchronous background task queues with Redis and Celery, handling over 3 million data synchronization jobs weekly.
+- Designed relational database schemas in PostgreSQL, writing complex queries and optimizing execution plans.
+- Containerized backend services using Docker and managed deployments on cloud environments.
+- Wrote extensive unit and integration tests using pytest, keeping service coverage above 85%.
+
+Software Developer | Midwestern Data Solutions | Chicago, IL
+June 2020 – June 2021
+- Maintained backend business logic and database endpoints using Python (Flask) and PostgreSQL.
+- Built basic internal administrative web forms using HTML, vanilla JavaScript, and Bootstrap templates.
+- Collaborated with database administrators to create data migrations and audit log tables.
+- Fixed backend bugs, improved error logging, and generated API documentation with Swagger/OpenAPI.
+
+Education
+Bachelor of Science in Computer Engineering
+University of Illinois at Urbana-Champaign | Graduated May 2020
+
+Skills
+Languages: Python, SQL, C++, HTML5, basic JavaScript
+Backend: FastAPI, Flask, SQLAlchemy, Alembic, RESTful APIs, Asynchronous Tasks
+Databases: PostgreSQL, Redis, Database Query Optimization
+DevOps & Tools: Docker, Docker Compose, Git, Linux, pytest
+Frontend (Developing): Basic React, HTML5, CSS3, JavaScript fundamentals

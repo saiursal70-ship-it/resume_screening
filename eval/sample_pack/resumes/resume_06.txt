@@ -1,0 +1,31 @@
+Frank Johnson
+Email: frank.johnson.web@example.com | Phone: (555) 789-0123 | Denver, CO | GitHub: github.com/frankjohnson-frontend
+
+Summary
+Senior Frontend Engineer with 5 years of experience building modern, responsive, and accessible web applications using React and TypeScript. Passionate about component architecture, state management, and user interface polish. Experienced in full-stack Node.js environments and eager to deepen enterprise Python backend development.
+
+Experience
+Senior Frontend Developer | Alpine Digital Studio | Denver, CO
+March 2021 – Present
+- Led the frontend development of a customer portal utilizing React 18, TypeScript, Vite, and Tailwind CSS.
+- Built reusable UI component systems with Storybook, reducing UI development cycles across 4 product teams by 35%.
+- Implemented state management using Redux Toolkit and React Query, ensuring smooth client-side caching and optimistic UI updates.
+- Collaborated with backend engineers to integrate RESTful API endpoints and WebSocket channels for live event streaming.
+- Authored frontend test suites using Vitest and React Testing Library, maintaining 85%+ component test coverage.
+
+Web Application Engineer | Peak Web Innovations | Boulder, CO
+June 2019 – February 2021
+- Created dynamic single-page web applications using React, JavaScript (ES6+), and modern CSS.
+- Built lightweight backend BFF (Backend-for-Frontend) services using Node.js and Express to aggregate third-party REST APIs.
+- Used Python scripts for local automation, test data seeding, and CSV data transformation.
+- Interacted with relational databases (PostgreSQL) using basic SQL queries and Prisma ORM.
+
+Education
+Bachelor of Science in Information Technology
+Colorado State University | Graduated May 2019
+
+Skills
+Frontend: React, TypeScript, JavaScript (ES6+), Next.js, HTML5, CSS3, Tailwind CSS, Vite, Redux Toolkit
+Backend & Scripting: Node.js, Express, Basic Python (scripting & automation), REST APIs
+Databases: PostgreSQL (basic), MongoDB
+Tools & Testing: Git, Docker (basic container runs), Vitest, Jest, Webpack, Figma
